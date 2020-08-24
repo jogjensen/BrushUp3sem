@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jogje\\source\\repos\\Brushup3sem\\Brushup3sem\\Brushup3sem.csproj",
+      "projectUniqueName": "C:\\Users\\jogje\\Source\\Repos\\jogjensen\\BrushUp3sem\\Brushup3sem\\Brushup3sem.csproj",
       "projectName": "Brushup3sem",
-      "projectPath": "C:\\Users\\jogje\\source\\repos\\Brushup3sem\\Brushup3sem\\Brushup3sem.csproj",
+      "projectPath": "C:\\Users\\jogje\\Source\\Repos\\jogjensen\\BrushUp3sem\\Brushup3sem\\Brushup3sem.csproj",
       "packagesPath": "C:\\Users\\jogje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jogje\\source\\repos\\Brushup3sem\\Brushup3sem\\obj\\",
+      "outputPath": "C:\\Users\\jogje\\Source\\Repos\\jogjensen\\BrushUp3sem\\Brushup3sem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jogje\\AppData\\Roaming\\NuGet\\NuGet.Config",
